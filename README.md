@@ -1,7 +1,4 @@
 # An-Introduction-to-Interactive-Programming-in-Python
-Coursera Python course lab assignments 
-
-An Introduction to Interactive Programming in Python (Part 1) 
 
 Part of the Fundamentals of Computing Specialization »
 
