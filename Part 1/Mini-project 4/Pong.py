@@ -1,4 +1,6 @@
-import simplegui
+#import simplegui
+import simpleguitk as simplegui
+
 import random
 
 # initialize globals - pos and vel encode vertical info for paddles
