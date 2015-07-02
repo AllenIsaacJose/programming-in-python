@@ -4,6 +4,6 @@ Did as introduction to the basics of programming in Python.
 Mainly focused on building simple interactive games such as Pong, Blackjack and Asteroids. 
 
 The primary method for learning the course material was to work through multiple "mini-projects" in Python. 
-To make this class enjoyable, these projects will include building fun games such as Pong, Blackjack, and Asteroids. 
+Projects include building fun games such as Pong, Blackjack, and Asteroids. 
 
 To know more - https://www.coursera.org/course/interactivepython1 
